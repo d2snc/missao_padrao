@@ -1,0 +1,7 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./teste_8_6_2023_____01_51_50/teste_8_6_2023_____01_51_50.ylog
+%% FILE OPENED ON  Wed Dec 31 21:00:00 1969
+%% LOGSTART           1686199909.677965
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.06146216 MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+74.46087   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: BehaviorError 

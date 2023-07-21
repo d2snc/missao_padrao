@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./teste_8_6_2023_____01_13_37/teste_8_6_2023_____01_13_37.alog
+%% FILE OPENED ON  Wed Dec 31 21:00:00 1969
+%% LOGSTART           1686197616.455139
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.06254         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+0.06255         DESIRED_SPEED        pHelmIvP        0.00000      
+0.06255         DESIRED_HEADING      pHelmIvP        0.00000      
+0.25391         DESIRED_RUDDER       pMarinePIDV22   0.00000      
+0.25391         DESIRED_THRUST       pMarinePIDV22   0.00000      
